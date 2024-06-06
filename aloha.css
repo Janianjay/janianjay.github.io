@@ -1,0 +1,19 @@
+/* Mengatur tampilan judul */
+h1 {
+    font-size: 100px; 
+    color: #f56cdc;
+    text-align: center; 
+    margin-top: 50px; 
+}
+
+/* Mengatur tampilan paragraf */
+p {
+    font-size: 18px; 
+    color: #37323b; 
+    text-align: center; 
+    margin-top: 20px; 
+}
+body {
+    background-color: #e5b5e8; 
+    margin: 0; 
+    padding: 0; 
